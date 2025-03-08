@@ -24,6 +24,6 @@ function Merge(arr, s, e) {
     }
   }
 }
-const koko=[2,1,5,4,7,6,3,88,3]
-MergeSort(koko,0,koko.length-1)
-console.log(koko)
+const arr=[2,1,5,4,7,6,3,88,3]
+MergeSort(arr,0,arr.length-1)
+console.log(arr)
